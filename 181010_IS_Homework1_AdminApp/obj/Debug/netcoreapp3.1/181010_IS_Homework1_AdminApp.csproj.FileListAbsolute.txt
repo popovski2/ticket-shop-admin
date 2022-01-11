@@ -1,0 +1,163 @@
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.exe
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.deps.json
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.runtimeconfig.json
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.runtimeconfig.dev.json
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.dll
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.pdb
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.Views.dll
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.Views.pdb
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.csproj.AssemblyReference.cache
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.AssemblyInfoInputs.cache
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.AssemblyInfo.cs
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.csproj.CoreCompileInputs.cache
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.RazorAssemblyInfo.cache
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.RazorAssemblyInfo.cs
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\staticwebassets\181010_IS_Homework1_AdminApp.StaticWebAssets.Manifest.cache
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\staticwebassets\181010_IS_Homework1_AdminApp.StaticWebAssets.xml
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\181010_IS_Homework1_AdminApp.styles.css
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.TagHelpers.input.cache
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.TagHelpers.output.cache
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.RazorCoreGenerate.cache
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.RazorTargetAssemblyInfo.cache
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.RazorTargetAssemblyInfo.cs
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.Views.pdb
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.dll
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.pdb
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.genruntimeconfig.cache
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.csproj.CopyComplete
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Angela Madjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.exe
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.deps.json
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.runtimeconfig.json
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.runtimeconfig.dev.json
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.pdb
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.Views.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.Views.pdb
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.AssemblyInfoInputs.cache
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.AssemblyInfo.cs
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.csproj.CoreCompileInputs.cache
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.RazorAssemblyInfo.cache
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.RazorAssemblyInfo.cs
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\staticwebassets\181010_IS_Homework1_AdminApp.StaticWebAssets.Manifest.cache
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\staticwebassets\181010_IS_Homework1_AdminApp.StaticWebAssets.xml
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\181010_IS_Homework1_AdminApp.styles.css
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.TagHelpers.input.cache
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.TagHelpers.output.cache
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.RazorCoreGenerate.cache
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.RazorTargetAssemblyInfo.cache
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.RazorTargetAssemblyInfo.cs
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.Views.pdb
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.csproj.CopyComplete
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.pdb
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.genruntimeconfig.cache
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.csproj.AssemblyReference.cache
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\angelamadjar\source\repos\181010_IS_Homework1\181010_IS_Homework1_AdminApp\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.exe
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.deps.json
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.runtimeconfig.json
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.runtimeconfig.dev.json
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.pdb
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.Views.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.Views.pdb
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.AssemblyInfo.cs
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\staticwebassets\181010_IS_Homework1_AdminApp.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\staticwebassets\181010_IS_Homework1_AdminApp.StaticWebAssets.xml
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\181010_IS_Homework1_AdminApp.styles.css
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.TagHelpers.input.cache
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.TagHelpers.output.cache
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.RazorCoreGenerate.cache
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.Views.pdb
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.csproj.CopyComplete
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.dll
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.pdb
+C:\Users\User\source\repos\skit_adming_github\TicketShopAdminApplication\181010_IS_Homework1_AdminApp\obj\Debug\netcoreapp3.1\181010_IS_Homework1_AdminApp.genruntimeconfig.cache

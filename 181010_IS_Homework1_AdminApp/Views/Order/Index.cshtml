@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+
+@model List<_181010_IS_Homework1_AdminApp.Models.Order>
+
+<div class="row">
+    <a class="btn btn-outline-success" asp-controller="Order" asp-action="ExportAllOrders" id="export-orders">Export Orders</a>
+    <br />
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th class="col">
+                #
+            </th>
+            <th class="col">
+                Customer Details
+            </th>
+            <th class="col">
+                Number of Tickets
+            </th>
+            <th></th> @*Later we will implement a delete button*@
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            for (int i = 0; i < Model.Count; i++)
+            {
+                var item = Model[i];
+                <tr>
+                    @*One row for each item in the shopping cart*@
+                    <td>@(i+1)</td>
+                    <td>@item.OrderedBy.Name @item.OrderedBy.Surname</td>
+                    <td>@item.Tickets.ToList().Count()</td>
+                    <td><a asp-route-orderId="@item.Id" asp-action="Details" class="btn btn-info" id="view-order">View Order</a></td>
+                    <td><a asp-route-orderId="@item.Id" asp-action="CreateInvoice" class="btn btn-info" id="get-invoice">Get Invoice</a></td>
+                </tr>
+            }
+        }
+    </tbody>
+    <tfoot>
+    </tfoot>
+</table>
